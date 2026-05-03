@@ -30,9 +30,9 @@ footer { display: none; }
 }
 .hero-title {
     font-family: 'Boogaloo', cursive;
-    font-size: clamp(4rem, 12vw, 9rem);
-    line-height: 0.9;
-    letter-spacing: -2px;
+    font-size: clamp(6rem, 18vw, 13rem);
+    line-height: 0.88;
+    letter-spacing: -3px;
     color: #1a1a2e;
     margin: 0;
 }
@@ -246,7 +246,7 @@ projects = [
         "title": "Análisis de Emociones",
         "desc": "Detecta y clasifica emociones en texto usando modelos de sentiment analysis.",
         "url": "https://sentimentoapp.streamlit.app/",
-        "color": "#ff9800",
+        "color": "#c97500",
         "bg": "#fff8f0",
         "tag": "Sentiment",
         "tag_color": "#ffe0b2",
@@ -256,7 +256,7 @@ projects = [
         "title": "Word Cloud",
         "desc": "Visualización creativa de frecuencia de palabras en nubes interactivas.",
         "url": "https://wordcloud22.streamlit.app/",
-        "color": "#9c27b0",
+        "color": "#7b1fa2",
         "bg": "#faf0ff",
         "tag": "Visualización",
         "tag_color": "#e1bee7",
@@ -266,7 +266,7 @@ projects = [
         "title": "Reconocimiento de Rostro",
         "desc": "Detecta y reconoce rostros humanos en imágenes usando visión por computador.",
         "url": "https://conana-sinana.streamlit.app/",
-        "color": "#4caf50",
+        "color": "#2e7d32",
         "bg": "#f0fff4",
         "tag": "Computer Vision",
         "tag_color": "#c8f0d0",
@@ -296,7 +296,7 @@ projects = [
         "title": "Primera App · Versión Profe",
         "desc": "Versión mejorada de la primera app, incorporando feedback del profesor.",
         "url": "https://estaesunaurl.streamlit.app/",
-        "color": "#ff9800",
+        "color": "#c97500",
         "bg": "#fff8f0",
         "tag": "Iteración",
         "tag_color": "#ffe0b2",
@@ -306,7 +306,7 @@ projects = [
         "title": "Texto a Audio",
         "desc": "Convierte texto escrito a voz sintética con distintas opciones de idioma.",
         "url": "https://texto-a-audio-profe-egbafxjujxxpaeqtpcy2jd.streamlit.app/",
-        "color": "#9c27b0",
+        "color": "#7b1fa2",
         "bg": "#faf0ff",
         "tag": "TTS",
         "tag_color": "#e1bee7",
@@ -316,7 +316,7 @@ projects = [
         "title": "OCR + Audio",
         "desc": "Extrae texto de imágenes (OCR) y lo convierte en audio de forma automática.",
         "url": "https://ocr-audio-8129.streamlit.app/",
-        "color": "#4caf50",
+        "color": "#2e7d32",
         "bg": "#f0fff4",
         "tag": "OCR · Audio",
         "tag_color": "#c8f0d0",
@@ -346,7 +346,7 @@ projects = [
         "title": "Tablero de Datos",
         "desc": "Dashboard interactivo para visualización y análisis de conjuntos de datos.",
         "url": "https://tablero2-8.streamlit.app/",
-        "color": "#ff9800",
+        "color": "#c97500",
         "bg": "#fff8f0",
         "tag": "Dashboard",
         "tag_color": "#ffe0b2",
